@@ -428,7 +428,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:102px;
+  width:86px;
   height:46px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -450,7 +450,7 @@
   position:absolute;
   left:77px;
   top:469px;
-  width:102px;
+  width:86px;
   height:46px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -462,14 +462,14 @@
   position:absolute;
   left:2px;
   top:14px;
-  width:98px;
+  width:82px;
   word-wrap:break-word;
 }
 #u118_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:102px;
+  width:69px;
   height:46px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -485,9 +485,9 @@
 }
 #u118 {
   position:absolute;
-  left:283px;
+  left:316px;
   top:469px;
-  width:102px;
+  width:69px;
   height:46px;
   font-size:16px;
 }
@@ -495,14 +495,14 @@
   position:absolute;
   left:2px;
   top:14px;
-  width:98px;
+  width:65px;
   word-wrap:break-word;
 }
 #u120_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:104px;
+  width:71px;
   height:46px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -518,9 +518,9 @@
 }
 #u120 {
   position:absolute;
-  left:179px;
+  left:163px;
   top:469px;
-  width:104px;
+  width:71px;
   height:46px;
   font-size:16px;
 }
@@ -528,7 +528,7 @@
   position:absolute;
   left:2px;
   top:14px;
-  width:100px;
+  width:67px;
   word-wrap:break-word;
 }
 #u122_div {
@@ -1082,5 +1082,38 @@
   left:2px;
   top:44px;
   width:141px;
+  word-wrap:break-word;
+}
+#u163_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:82px;
+  height:46px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:16px;
+}
+#u163 {
+  position:absolute;
+  left:234px;
+  top:469px;
+  width:82px;
+  height:46px;
+  font-size:16px;
+}
+#u164 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:78px;
   word-wrap:break-word;
 }
